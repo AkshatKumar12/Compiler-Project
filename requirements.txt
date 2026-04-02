@@ -1,0 +1,4 @@
+pycparser>=2.21,<3.0
+networkx>=3.0
+graphviz>=0.20
+

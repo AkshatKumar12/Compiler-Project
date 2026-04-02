@@ -1,0 +1,14 @@
+{
+  "functions": 2,
+  "loops": 2,
+  "nested_loops": 0,
+  "conditionals": 1,
+  "variables": 6,
+  "lines_of_code": 22,
+  "cfg_nodes": 22.0,
+  "cfg_edges": 21.0,
+  "cfg_branching_factor": 1.1666666666666667,
+  "cfg_loops": 2.0,
+  "cfg_max_path_length": 9.0,
+  "cyclomatic_complexity": 7.0
+}
